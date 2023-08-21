@@ -1,1 +1,1 @@
-FROM docker.io/kubernetesui/metrics-scraper:v1.0.9
+FROM zabbix/zabbix-proxy-mysql:6.0.19-alpine
