@@ -1,1 +1,1 @@
-FROM  kolla/centos-source-aodh-base:train
+FROM  kolla/centos-source-aodh-evaluator:train
