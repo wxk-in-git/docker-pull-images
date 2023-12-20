@@ -1,1 +1,1 @@
-FROM zabbix/zabbix-proxy-mysql:6.0.19-alpine
+FROM kolla/centos-binary-aodh-api:train
