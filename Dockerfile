@@ -1,1 +1,1 @@
-FROM  kolla/centos-binary-aodh-listener:train
+FROM  kolla/centos-binary-aodh-notifier:train
