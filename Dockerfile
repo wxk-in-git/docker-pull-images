@@ -1,1 +1,1 @@
-FROM  kolla/centos-binary-barbican-api:train
+FROM  kolla/centos-binary-barbican-base:train
