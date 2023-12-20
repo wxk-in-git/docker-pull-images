@@ -1,1 +1,1 @@
-FROM  kolla/centos-binary-aodh-notifier:train
+FROM  kolla/centos-binary-barbican-api:train
