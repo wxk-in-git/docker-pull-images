@@ -1,1 +1,1 @@
-FROM  kolla/centos-binary-base:train
+FROM  kolla/centos-binary-bifrost-base:train
