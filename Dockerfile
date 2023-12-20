@@ -1,1 +1,1 @@
-FROM  kolla/centos-binary-aodh-evaluator:train
+FROM  kolla/centos-binary-aodh-expirer:train
