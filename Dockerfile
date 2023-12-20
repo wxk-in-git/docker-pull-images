@@ -1,2 +1,1 @@
-#image name
-FROM kolla/centos-binary-aodh-api:train
+FROM  kolla/centos-binary-aodh-base:train
